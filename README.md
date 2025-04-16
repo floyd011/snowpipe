@@ -54,4 +54,4 @@ The following outputs will be available:
 
 ## Authors
 
-Created by [DataMeshSync](https://linkedin.com/in/datamesh-sync)
+Created by [DataMeshSync](https://linkedin.com/company/datamesh-sync)
